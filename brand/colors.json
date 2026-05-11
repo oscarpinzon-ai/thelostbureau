@@ -1,0 +1,78 @@
+{
+  "palette": {
+    "primary": {
+      "darkCharcoal": "#2D2D2D",
+      "name": "Dark Charcoal",
+      "usage": "Main background color",
+      "mood": "Authority, mystery, sophistication"
+    },
+    "accent": {
+      "black": "#1A1A1A",
+      "name": "Black",
+      "usage": "Text, dark accents, borders",
+      "mood": "Power, finality"
+    },
+    "highlight": {
+      "gold": "#D4AF37",
+      "name": "Gold",
+      "usage": "Badges, seals, premium accents",
+      "mood": "Prestige, value, official"
+    },
+    "danger": {
+      "deepRed": "#8B0000",
+      "name": "Deep Red",
+      "usage": "Warnings, intrigue, forbidden elements",
+      "mood": "Danger, mystery, urgency"
+    },
+    "secondary": {
+      "offWhite": "#F5F1E8",
+      "name": "Off-White",
+      "usage": "Secondary text, borders, vintage feel",
+      "mood": "Nostalgia, clarity, paper/archive"
+    },
+    "neutral": {
+      "gray": "#5C5C5C",
+      "name": "Medium Gray",
+      "usage": "Secondary elements, dividers",
+      "mood": "Balance, neutral"
+    }
+  },
+  "colorCombos": {
+    "primary_accent": {
+      "colors": ["#2D2D2D", "#D4AF37"],
+      "name": "Charcoal + Gold",
+      "usage": "Main color scheme for thumbnails and branding"
+    },
+    "alert_combo": {
+      "colors": ["#2D2D2D", "#8B0000"],
+      "name": "Charcoal + Deep Red",
+      "usage": "Warning/forbidden emphasis"
+    },
+    "vintage_combo": {
+      "colors": ["#2D2D2D", "#F5F1E8"],
+      "name": "Charcoal + Off-White",
+      "usage": "Text and subtle contrast"
+    }
+  },
+  "gradients": {
+    "darkGradient": {
+      "start": "#2D2D2D",
+      "end": "#1A1A1A",
+      "usage": "Background transitions, depth"
+    },
+    "goldGradient": {
+      "start": "#D4AF37",
+      "end": "#B8860B",
+      "usage": "Accent bars, highlight effects"
+    }
+  },
+  "semanticUsage": {
+    "headers": "#F5F1E8",
+    "bodyText": "#F5F1E8",
+    "emphasis": "#D4AF37",
+    "danger": "#8B0000",
+    "background": "#2D2D2D",
+    "secondaryBackground": "#1A1A1A",
+    "borders": "#D4AF37"
+  }
+}

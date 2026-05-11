@@ -1,0 +1,402 @@
+{
+  "channelKeywords": {
+    "primary": [
+      "illegal survival skills",
+      "banned techniques",
+      "forgotten knowledge",
+      "government secrets",
+      "survival skills",
+      "lost american history"
+    ],
+    "secondary": [
+      "history documentary",
+      "educational content",
+      "forgotten ways",
+      "buried knowledge",
+      "suppressed information",
+      "what they don't want you knowing"
+    ],
+    "longTail": [
+      "illegal survival skill government",
+      "forgotten techniques the government hides",
+      "what governments don't want you remembering",
+      "banned survival methods that still work",
+      "ancient knowledge governments suppressed"
+    ]
+  },
+  "videoKeywords": {
+    "video1": {
+      "title": "The Government Doesn't Want You Remembering This Illegal Survival Skill",
+      "primaryKeyword": "illegal survival skill",
+      "secondaryKeywords": [
+        "banned survival techniques",
+        "government suppression",
+        "emergency food",
+        "survival methods"
+      ],
+      "longTailKeywords": [
+        "illegal survival skill government doesn't want",
+        "banned emergency food technique",
+        "survival methods government suppressed",
+        "forgotten survival skills that work today"
+      ],
+      "tags": [
+        "survival",
+        "government",
+        "illegal",
+        "banned",
+        "technique",
+        "emergency",
+        "food",
+        "knowledge",
+        "hidden",
+        "documentary",
+        "history",
+        "forgotten"
+      ]
+    },
+    "video2": {
+      "title": "Forgotten Americans Did This Weekly — Why They're Hiding It Today",
+      "primaryKeyword": "forgotten money hack",
+      "secondaryKeywords": [
+        "money making technique",
+        "irs suppression",
+        "side hustle",
+        "government banned"
+      ],
+      "longTailKeywords": [
+        "forgotten money making technique government",
+        "how americans made money 1970s",
+        "side hustle government doesn't want",
+        "money hack irs shut down"
+      ],
+      "tags": [
+        "money",
+        "hack",
+        "income",
+        "forgotten",
+        "technique",
+        "government",
+        "irs",
+        "side hustle",
+        "making money",
+        "history",
+        "suppressed"
+      ]
+    },
+    "video3": {
+      "title": "This Banned Skill Could Save Your Life — The Government Hopes You Never Find Out",
+      "primaryKeyword": "banned water purification",
+      "secondaryKeywords": [
+        "water survival",
+        "off-grid",
+        "illegal to teach",
+        "emergency skills"
+      ],
+      "longTailKeywords": [
+        "banned water purification technique",
+        "off-grid survival government doesn't teach",
+        "water purification method government banned",
+        "emergency water skills hidden from public"
+      ],
+      "tags": [
+        "water",
+        "survival",
+        "purification",
+        "banned",
+        "emergency",
+        "off-grid",
+        "technique",
+        "government",
+        "health",
+        "skills",
+        "illegal"
+      ]
+    },
+    "video4": {
+      "title": "The Illegal Side Hustle That Made $500/Week Before The IRS Shut It Down",
+      "primaryKeyword": "illegal side hustle",
+      "secondaryKeywords": [
+        "irs crackdown",
+        "underground economy",
+        "income method",
+        "government enforcement"
+      ],
+      "longTailKeywords": [
+        "side hustle irs shut down",
+        "illegal income method government",
+        "make 500 week underground economy",
+        "side hustle government banned 2025"
+      ],
+      "tags": [
+        "money",
+        "sidehustle",
+        "income",
+        "illegal",
+        "irs",
+        "tax",
+        "government",
+        "economy",
+        "making money",
+        "hidden",
+        "suppressed"
+      ]
+    },
+    "video5": {
+      "title": "What They Don't Want You Knowing About Ancient Survival Methods",
+      "primaryKeyword": "ancient survival methods",
+      "secondaryKeywords": [
+        "indigenous knowledge",
+        "suppressed techniques",
+        "forgotten history",
+        "colonial era"
+      ],
+      "longTailKeywords": [
+        "ancient survival methods government suppressed",
+        "indigenous knowledge colonizers tried to hide",
+        "forgotten survival techniques that still work",
+        "what governments don't want you knowing survival"
+      ],
+      "tags": [
+        "survival",
+        "ancient",
+        "history",
+        "indigenous",
+        "knowledge",
+        "suppressed",
+        "techniques",
+        "government",
+        "forgotten",
+        "methods",
+        "documentary"
+      ]
+    },
+    "video6": {
+      "title": "The Government-Banned Technique Americans Used For Centuries",
+      "primaryKeyword": "banned herbal medicine",
+      "secondaryKeywords": [
+        "suppressed natural remedy",
+        "pharmaceutical industry",
+        "government ban",
+        "alternative health"
+      ],
+      "longTailKeywords": [
+        "banned herbal medicine government",
+        "natural remedy government doesn't want",
+        "herbal technique pharmaceutical industry suppressed",
+        "traditional medicine government banned 2025"
+      ],
+      "tags": [
+        "herbal",
+        "medicine",
+        "banned",
+        "government",
+        "natural",
+        "remedy",
+        "health",
+        "suppressed",
+        "pharmaceutical",
+        "traditional",
+        "technique"
+      ]
+    },
+    "video7": {
+      "title": "Forgotten Americans Made Thousands With This Lost Skill — Here's Why It Vanished",
+      "primaryKeyword": "lost money-making skill",
+      "secondaryKeywords": [
+        "arbitrage technique",
+        "trading method",
+        "wealth building",
+        "regulatory closure"
+      ],
+      "longTailKeywords": [
+        "lost money making skill still works",
+        "arbitrage technique government closed down",
+        "how to make thousands forgotten method",
+        "trading technique government regulation shut down"
+      ],
+      "tags": [
+        "money",
+        "skill",
+        "trading",
+        "wealth",
+        "forgotten",
+        "technique",
+        "income",
+        "government",
+        "regulation",
+        "closed",
+        "history"
+      ]
+    },
+    "video8": {
+      "title": "This Illegal Knowledge Could Change Everything — Why It's Disappeared",
+      "primaryKeyword": "suppressed knowledge",
+      "secondaryKeywords": [
+        "hidden information",
+        "government conspiracy",
+        "paradigm shift",
+        "conspiracy theory"
+      ],
+      "longTailKeywords": [
+        "suppressed knowledge government doesn't want you knowing",
+        "illegal information government erased from history",
+        "hidden knowledge that threatens power structures",
+        "dangerous information government buried"
+      ],
+      "tags": [
+        "knowledge",
+        "suppressed",
+        "government",
+        "hidden",
+        "information",
+        "conspiracy",
+        "truth",
+        "mystery",
+        "documentary",
+        "history",
+        "conspiracy theory"
+      ]
+    },
+    "video9": {
+      "title": "The Banned Survival Handbook They Tried To Destroy",
+      "primaryKeyword": "banned survival handbook",
+      "secondaryKeywords": [
+        "military secrets",
+        "lost manual",
+        "government destruction",
+        "recovered information"
+      ],
+      "longTailKeywords": [
+        "banned survival handbook military tried to destroy",
+        "military survival secrets government suppressed",
+        "lost survival manual government wanted destroyed",
+        "forbidden survival knowledge military handbook"
+      ],
+      "tags": [
+        "survival",
+        "handbook",
+        "military",
+        "banned",
+        "secrets",
+        "lost",
+        "government",
+        "manual",
+        "destroyed",
+        "suppressed",
+        "technique"
+      ]
+    },
+    "video10": {
+      "title": "Forgotten Ways To Make Money That Still Work Today (The Government Hates This)",
+      "primaryKeyword": "forgotten ways to make money",
+      "secondaryKeywords": [
+        "multiple techniques",
+        "income methods",
+        "government opposition",
+        "alternative earning"
+      ],
+      "longTailKeywords": [
+        "forgotten ways to make money that still work",
+        "government hates these money making methods",
+        "forgotten money techniques legal status",
+        "what governments don't want you earning money from"
+      ],
+      "tags": [
+        "money",
+        "making money",
+        "income",
+        "forgotten",
+        "government",
+        "techniques",
+        "methods",
+        "alternative",
+        "side hustle",
+        "legal",
+        "ways"
+      ]
+    }
+  },
+  "seasonalKeywords": {
+    "spring": [
+      "spring survival",
+      "emergency preparedness",
+      "outdoor skills"
+    ],
+    "summer": [
+      "summer survival",
+      "camping skills",
+      "outdoor techniques"
+    ],
+    "fall": [
+      "winter preparation",
+      "food preservation",
+      "survival planning"
+    ],
+    "winter": [
+      "winter survival",
+      "emergency shelter",
+      "cold weather techniques"
+    ]
+  },
+  "competitorKeywords": {
+    "forgotten_american_survival": [
+      "forgotten american survival",
+      "forgotten skills",
+      "american history",
+      "survival knowledge"
+    ],
+    "forgotten_ways_to_make_money": [
+      "forgotten ways",
+      "lost techniques",
+      "historical methods",
+      "income skills"
+    ]
+  },
+  "searchVolumeEstimates": {
+    "highVolume": {
+      "searches_monthly": "10000+",
+      "keywords": [
+        "survival skills",
+        "money making ideas",
+        "government secrets"
+      ]
+    },
+    "mediumVolume": {
+      "searches_monthly": "1000-10000",
+      "keywords": [
+        "banned techniques",
+        "forgotten knowledge",
+        "illegal methods"
+      ]
+    },
+    "lowVolume": {
+      "searches_monthly": "100-1000",
+      "keywords": [
+        "very specific techniques",
+        "niche survival methods",
+        "obscure historical knowledge"
+      ]
+    }
+  },
+  "keywordStrategy": {
+    "titleOptimization": {
+      "rule1": "Include primary keyword in first 10 words",
+      "rule2": "Add emotional trigger (Illegal, Banned, Forgotten, Hidden)",
+      "rule3": "Include secondary keyword naturally",
+      "rule4": "Keep under 60 characters"
+    },
+    "descriptionOptimization": {
+      "rule1": "First sentence should include primary keyword",
+      "rule2": "Natural keyword density: 1-2% (avoid stuffing)",
+      "rule3": "Include 3-4 secondary keywords throughout",
+      "rule4": "Add 2-3 timestamped sections with keywords"
+    },
+    "tagStrategy": {
+      "rule1": "First 3 tags: primary + 2 secondary keywords",
+      "rule2": "Next 4 tags: long-tail keyword variations",
+      "rule3": "Last 4 tags: brand + content type (documentary, history, etc)",
+      "rule4": "Total tags: 8-12 maximum"
+    }
+  }
+}
